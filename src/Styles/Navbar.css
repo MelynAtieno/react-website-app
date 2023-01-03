@@ -12,11 +12,13 @@ nav{
     background-color: #e0e0e0;
     padding: 1.5em;
     box-shadow: 5px 5px 10px #808080,
-    -5px -5px 10px #8dd8f6;
+                -5px -5px 10px #8dd8f6;
     margin-bottom: 10px;
     position: sticky;
     text-align: right;
     cursor: pointer;
+    z-index: 2;
+    
 }
 
 @media only screen and (max-width: 800px){
@@ -24,6 +26,7 @@ nav{
         display: block;
         text-align: center;
         padding: 1em;
+        width: 100%;
         
     }
     .nav-item{
