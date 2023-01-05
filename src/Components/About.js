@@ -42,7 +42,9 @@ function About() {
         <li>Netlify</li>
       </ul>
  </div>     
-
+<a href='https://docs.google.com/document/d/1P9ndnqdrqfuw5XtAsNyyb-4iR064dGjOWprlESY1KOo/edit?usp=sharing'>
+  MY RESUME
+</a>
     </div>
   )
 }
