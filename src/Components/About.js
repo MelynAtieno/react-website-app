@@ -1,27 +1,39 @@
-import React from 'react'
+import React from 'react';
+import "../Styles/About.css"
 
 function About() {
   return (
-    <div>
-      <p className='about'> Hi, my name is <b>Melyn Atieno Were.</b>
-        Currently, I hold a Bachelor's Degree in Financial Economics but I have always had a passion for tech
+    <div className='abt-page'>
+      <p className='about'> Hi, my name is <b>Melyn Atieno Were</b>
+        . Currently, I hold a Bachelor's Degree in Financial Economics but I have always had a passion for tech
         and this made me join a Bootcamp to learn Software Engineering. I enjoyed the experience
-        and I look forward to progressing in my career as a Software Engineer. <br/>
+        and I look forward to progressing in my career as a Software Engineer. <br/> <br/>
         I really enjoy solving complex problems and I love how I can use technology to solve problems. I 
         consider myself as someone who is self-driven, passionate about technology, a fast learner, a good
         collaborator and a good leader. 
       </p>
       
       <h3 className='skillset'><b>MY SKILLSET</b></h3>
+      <div className='stack'>
+     
+      <div className='col-1'>
       <ul>
         <li>JavaScript</li>
         <li>React JS</li>
         <li>Ruby</li>
+        </ul>
+      </div>
+
+      <div className='col-2'>
+        <ul>
         <li>Ruby on Rails</li>
         <li>HTML & CSS</li>
         <li>MySQL, PostgreSQL & SQLite</li>
       </ul>
+      </div>
+      </div>
 
+<div className='tech-tools'>
       <h3 className='tools'><b>TOOLS I USE</b></h3>
       <ul>
         <li>Visual Studio</li>
@@ -29,7 +41,7 @@ function About() {
         <li>Heroku</li>
         <li>Netlify</li>
       </ul>
-      
+ </div>     
 
     </div>
   )

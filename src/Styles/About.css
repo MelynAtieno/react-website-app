@@ -1,0 +1,50 @@
+
+.stack:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.col-1{
+    display: inline-block;
+    text-align: left;
+}
+.col-2{
+    text-align: left;
+    
+    
+}
+.stack{
+    column-count: 2;
+    column-gap: 2%;
+    
+}
+
+.tech-tools{
+    display: inline-block;
+    text-align: left;
+    
+}
+
+.about{
+    display: inline-block;
+    text-align: justify;
+    padding: 2em;
+
+}
+.abt-page{
+    max-width: 100%;
+    overflow: hidden;
+    
+}
+
+@media only screen and (max-width: 800px) {
+    .abt-page{
+        
+        overflow-x: hidden !important;
+        
+        
+    }
+    .about{
+        padding: 1em;
+    }
+}
