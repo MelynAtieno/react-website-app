@@ -9,10 +9,10 @@
     color: #8dd8f6;
 }
 nav{
-    background-color: #e0e0e0;
-    padding: 1.5em;
-    box-shadow: 5px 5px 10px #808080,
-                -5px -5px 10px #8dd8f6;
+    /*background-color: #e0e0e0; */
+    padding: 1em;
+    /*box-shadow: 5px 5px 10px #808080,
+                -5px -5px 10px #8dd8f6;*/
     margin-bottom: 10px;
     position: sticky;
     text-align: right;
