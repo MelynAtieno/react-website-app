@@ -4,7 +4,7 @@ import "../Styles/About.css"
 function About() {
   return (
     <div className='abt-page'>
-      <p className='about'> Hi, my name is <b>Melyn Atieno Were</b>
+      <p className='about'> My name is <b>Melyn Atieno Were</b>
         . Currently, I hold a Bachelor's Degree in Financial Economics but I have always had a passion for tech
         and this made me join a Bootcamp to learn Software Engineering. I enjoyed the experience
         and I look forward to progressing in my career as a Software Engineer. <br/> <br/>
