@@ -25,16 +25,25 @@
     
 }
 
+
 .about{
     display: inline-block;
     text-align: justify;
-    padding: 2em;
+    padding: 1em;
 
 }
 .abt-page{
     max-width: 100%;
     overflow: hidden;
     
+}
+.resume-link{
+    text-decoration: none;
+    color: black;
+}
+.resume{
+    height: 30px;
+
 }
 
 @media only screen and (max-width: 800px) {

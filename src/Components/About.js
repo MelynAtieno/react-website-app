@@ -12,7 +12,11 @@ function About() {
         consider myself as someone who is self-driven, passionate about technology, a fast learner, a good
         collaborator and a good leader. 
       </p>
-      
+
+      <button className='resume'><a className='resume-link' target="_blank" rel="noreferrer" href='https://docs.google.com/document/d/1P9ndnqdrqfuw5XtAsNyyb-4iR064dGjOWprlESY1KOo/edit?usp=sharing'>
+  <b>VIEW MY RESUME</b>
+</a>
+</button>
       <h3 className='skillset'><b>MY SKILLSET</b></h3>
       <div className='stack'>
      
@@ -42,9 +46,7 @@ function About() {
         <li>Netlify</li>
       </ul>
  </div>     
-<a href='https://docs.google.com/document/d/1P9ndnqdrqfuw5XtAsNyyb-4iR064dGjOWprlESY1KOo/edit?usp=sharing'>
-  MY RESUME
-</a>
+
     </div>
   )
 }
