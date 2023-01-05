@@ -13,11 +13,12 @@ nav{
     padding: 1em;
     /*box-shadow: 5px 5px 10px #808080,
                 -5px -5px 10px #8dd8f6;*/
-    margin-bottom: 10px;
+    
     position: sticky;
+    top: 0;
     text-align: right;
     cursor: pointer;
-    z-index: 2;
+    
     
 }
 

@@ -4,7 +4,7 @@ import "../Styles/Home.css"
 
 function Home() {
   return (
-    <div>
+    <div className='home-page'>
         <h2>Hi!<span className='hand-wave' role="img" aria-label= "wave">👋</span> </h2>
         <h2 className='i-am'>I'm</h2>
         <h1 className='name'><b>MELYN ATIENO</b></h1>
