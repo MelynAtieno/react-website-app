@@ -32,4 +32,11 @@
     background-color: white;
 }
 
+@media only screen and (max-width: 800px){
+    .projects{
+        height: 100%;
+        width: 100%;
+        
+    }
 
+}
