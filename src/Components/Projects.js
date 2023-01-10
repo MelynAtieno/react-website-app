@@ -12,7 +12,9 @@ function Projects() {
         <a href='https://frangollo-to-do-app.netlify.app/' target="_blank" rel="noreferrer"><img src={todo} alt="todo-app" width={900} height={400}></img> </a> <br/> <br/>
         <a href='https://melynatieno.github.io/weather-app/' target="_blank" rel="noreferrer" ><img src={weather} alt="weather-app" width={900} height={400}></img> </a><br/><br/>
         <a href='https://starlit-movie-app-1c6997.netlify.app/' target="_blank" rel="noreferrer"><img src={movie} alt="movie-app" width={900} height={400}></img> </a>
+        <h3 className='img-view'><b>VIEW</b></h3>
         </div>
+        
     </div>
   )
 }

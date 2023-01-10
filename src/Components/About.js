@@ -14,7 +14,7 @@ function About() {
       </p>
 
       <button className='resume'><a className='resume-link' target="_blank" rel="noreferrer" href='https://docs.google.com/document/d/1P9ndnqdrqfuw5XtAsNyyb-4iR064dGjOWprlESY1KOo/edit?usp=sharing'>
-  <b>VIEW MY RESUME</b>
+  <b>MY RESUME</b>
 </a>
 </button>
       <h3 className='skillset'><b>MY SKILLSET</b></h3>
