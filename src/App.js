@@ -3,7 +3,6 @@ import Home from './Components/Home';
 import Navbar from './Components/Navbar';
 import { Routes, Route } from 'react-router-dom';
 import About from './Components/About';
-
 import Projects from './Components/Projects';
 import Contact from './Components/Contact';
 
