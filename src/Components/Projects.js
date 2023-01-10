@@ -11,7 +11,7 @@ function Projects() {
     <div className='projects'>
         <h2 className='look'><b>TAKE A LOOK!</b></h2>
         <h4><b>Click on image to visit site</b></h4>
-        
+
         <div className='project-images'>
         <a href='https://frangollo-to-do-app.netlify.app/' target="_blank" rel="noreferrer"><img src={todo} alt="todo-app" width={900} height={400}></img></a> 
         <h4 className='languages'><b>Used: HTML5, CSS3, ReactJS</b></h4>
@@ -21,7 +21,7 @@ function Projects() {
         <h4 className='languages'><b>Used: HTML5, CSS3, JavaScript</b></h4>
         <button className='source-code'><a href='https://github.com/MelynAtieno/weather-app' target="_blank" rel="noreferrer"><b>SOURCE CODE</b></a></button> <br/><br/>
 
-        <a href='https://starlit-movie-app-1c6997.netlify.app/' target="_blank" rel="noreferrer"><img src={movie} alt="movie-app" width={900} height={400}></img> </a>
+        <a href='https://starlit-movie-app-1c6997.netlify.app/' target="_blank" rel="noreferrer"><img src={movie} alt="movie-app" width={900} height={400} opaci></img> </a>
         <h4 className='languages'><b>Used: HTML5, CSS3, ReactJS</b></h4>
         <button className='source-code'><a href='https://github.com/MelynAtieno/movie-app' target="_blank" rel="noreferrer"><b>SOURCE CODE</b></a></button> <br/> <br/>
         
