@@ -43,6 +43,14 @@
 }
 .resume{
     height: 30px;
+    width: 100px;
+    padding: 2px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(163, 200, 232);
+    box-shadow:  5px 10px 10px #373432,
+                -5px -5px 10px #e8ebec;
+    margin-bottom: 10px;
 
 }
 
