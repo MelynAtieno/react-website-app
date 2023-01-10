@@ -11,6 +11,23 @@
     color: rgb(107, 98, 98);
     opacity: 0.5;
 }
+.source-code{
+    height: 50px;
+    width: 150px;
+    padding: 2px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(163, 200, 232);
+    box-shadow:  5px 10px 10px #373432,
+                -5px -5px 10px #e8ebec;
+    margin-bottom: 10px;
+   
+}
+.source-code a{
+    text-decoration: none;
+    color: black;
+    font-family: Georgia;
+}
 
 
 
